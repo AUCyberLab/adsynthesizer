@@ -135,7 +135,15 @@ body {
                     padding: 0.3vh;
                     margin-bottom: 0
                 }
-            }           
+            }      
+			.step {
+				text-align: left !important;
+				margin: 20px 0;
+				padding: 15px;
+				border: 2px solid rgba(0, 128, 128, 1);
+				border-radius: 8px;
+				
+			}		
         }
 
 
